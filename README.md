@@ -19,13 +19,16 @@ Cloud-Native Platform Engineering • DevOps • Observability • IoT Systems
 
 Engineer with background in embedded systems, IoT, and real-time systems, currently focused on cloud-native backend, platform, and DevOps-oriented engineering.
 
-Currently building and exploring:
-- Cloud-native infrastructure
-- Kubernetes & container orchestration
-- Observability and monitoring systems
+I am building hands-on systems around cloud infrastructure, containerized deployment, telemetry pipelines, observability, and automation.
+
+Currently working with:
 - AWS cloud services
-- CI/CD workflows
-- Infrastructure automation
+- Dockerized backend and monitoring stacks
+- Kubernetes and container orchestration
+- Prometheus/Grafana observability workflows
+- PostgreSQL-backed telemetry storage
+- GitHub Actions CI workflows
+- Linux-based cloud deployment environments
 
 ---
 
@@ -33,12 +36,13 @@ Currently building and exploring:
 
 ### Cloud-Native IoT Telemetry & Observability Platform
 
-Built a cloud-native telemetry platform using:
+End-to-end IoT telemetry and monitoring platform deployed on AWS EC2 using Docker Compose, with cloud ingestion, backend APIs, database persistence, monitoring, and CI automation.
 
 <p>
 <img src="https://img.shields.io/badge/AWS_IoT_Core-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white">
 <img src="https://img.shields.io/badge/AWS_Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white">
 <img src="https://img.shields.io/badge/Amazon_S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white">
+<img src="https://img.shields.io/badge/Amazon_EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white">
 <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white">
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
@@ -48,14 +52,17 @@ Built a cloud-native telemetry platform using:
 <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white">
 </p>
 
-### Features
+### What it demonstrates
 
-- MQTT telemetry ingestion
-- Real-time monitoring dashboards
-- Historical telemetry persistence
-- Containerized multi-service deployment
-- Prometheus metrics & observability
-- CI/CD automation workflows
+- MQTT-based telemetry ingestion using AWS IoT Core
+- Serverless telemetry processing using AWS Lambda and Amazon S3
+- FastAPI backend for REST-based telemetry ingestion and retrieval
+- PostgreSQL persistence for historical sensor data
+- Prometheus metrics collection and Grafana dashboards
+- Docker Compose deployment of multi-container services
+- Local Kubernetes deployment workflow
+- AWS EC2 cloud deployment on Ubuntu Linux
+- GitHub Actions CI pipeline for validation and Docker image builds
 
 ### Repository
 
@@ -65,13 +72,15 @@ Built a cloud-native telemetry platform using:
 
 ## Tech Stack
 
-### Cloud & DevOps
+### Cloud & Infrastructure
 
 <p>
 <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white">
+<img src="https://img.shields.io/badge/Amazon_EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white">
+<img src="https://img.shields.io/badge/AWS_Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white">
+<img src="https://img.shields.io/badge/Amazon_S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white">
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
 <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white">
-<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white">
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
 </p>
 
@@ -91,17 +100,25 @@ Built a cloud-native telemetry platform using:
 <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white">
 </p>
 
----
+### DevOps & Workflow
 
+<p>
+<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white">
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+<img src="https://img.shields.io/badge/YAML-CB171E?style=for-the-badge&logo=yaml&logoColor=white">
+</p>
+
+---
 
 ## Current Focus
 
 Currently expanding knowledge in:
-- Terraform & Infrastructure as Code
+- Terraform and Infrastructure as Code
 - Cloud deployment automation
 - Platform engineering
 - Scalable cloud architectures
 - Kubernetes-based deployments
+- Secure cloud networking and deployment practices
 
 ---
 
