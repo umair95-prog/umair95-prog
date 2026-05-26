@@ -27,7 +27,7 @@ Currently working with:
 - Kubernetes and container orchestration
 - Prometheus/Grafana observability workflows
 - PostgreSQL-backed telemetry storage
-- GitHub Actions CI workflows
+- GitHub Actions CI/CD workflows
 - Linux-based cloud deployment environments
 
 ---
@@ -62,7 +62,7 @@ End-to-end IoT telemetry and monitoring platform deployed on AWS EC2 using Docke
 - Docker Compose deployment of multi-container services
 - Local Kubernetes deployment workflow
 - AWS EC2 cloud deployment on Ubuntu Linux
-- GitHub Actions CI pipeline for validation and Docker image builds
+- GitHub Actions CI/CD pipeline for validation and Docker image builds
 
 ### Repository
 
