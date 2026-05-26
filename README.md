@@ -22,13 +22,14 @@ Engineer with background in embedded systems, IoT, and real-time systems, curren
 I am building hands-on systems around cloud infrastructure, containerized deployment, telemetry pipelines, observability, and automation.
 
 Currently working with:
-- AWS cloud services
-- Dockerized backend and monitoring stacks
-- Kubernetes and container orchestration
-- Prometheus/Grafana observability workflows
-- PostgreSQL-backed telemetry storage
-- GitHub Actions CI/CD workflows
-- Linux-based cloud deployment environments
+- Cloud-native backend and observability platforms
+- Infrastructure as Code using Terraform
+- AWS cloud infrastructure and EC2 deployment workflows
+- Dockerized multi-service application stacks
+- Kubernetes and container orchestration fundamentals
+- Prometheus/Grafana monitoring and telemetry systems
+- GitHub Actions CI workflows
+- Linux-based cloud deployment and networking environments
 
 ---
 
@@ -36,7 +37,7 @@ Currently working with:
 
 ### Cloud-Native IoT Telemetry & Observability Platform
 
-End-to-end IoT telemetry and monitoring platform deployed on AWS EC2 using Docker Compose, with cloud ingestion, backend APIs, database persistence, monitoring, and CI automation.
+End-to-end cloud-native telemetry and observability platform with MQTT-based ingestion, REST APIs, PostgreSQL persistence, Prometheus/Grafana monitoring, Infrastructure as Code using Terraform, and cloud deployment on Amazon EC2.
 
 <p>
 <img src="https://img.shields.io/badge/AWS_IoT_Core-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white">
@@ -47,6 +48,7 @@ End-to-end IoT telemetry and monitoring platform deployed on AWS EC2 using Docke
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
 <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white">
+<img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white">  
 <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white">
 <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white">
 <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white">
@@ -60,6 +62,7 @@ End-to-end IoT telemetry and monitoring platform deployed on AWS EC2 using Docke
 - PostgreSQL persistence for historical sensor data
 - Prometheus metrics collection and Grafana dashboards
 - Docker Compose deployment of multi-container services
+- Infrastructure as Code workflows using Terraform for AWS EC2 provisioning and security group configuration
 - Local Kubernetes deployment workflow
 - AWS EC2 cloud deployment on Ubuntu Linux
 - GitHub Actions CI/CD pipeline for validation and Docker image builds
@@ -82,6 +85,7 @@ End-to-end IoT telemetry and monitoring platform deployed on AWS EC2 using Docke
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
 <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white">
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
+<img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white">
 </p>
 
 ### Backend & Data
@@ -113,12 +117,12 @@ End-to-end IoT telemetry and monitoring platform deployed on AWS EC2 using Docke
 ## Current Focus
 
 Currently expanding knowledge in:
-- Terraform and Infrastructure as Code
-- Cloud deployment automation
-- Platform engineering
-- Scalable cloud architectures
-- Kubernetes-based deployments
-- Secure cloud networking and deployment practices
+- Advanced Kubernetes deployment workflows
+- Automated cloud deployment pipelines
+- Platform engineering practices
+- Cloud-native scalability and orchestration
+- AI-enabled telemetry and monitoring systems
+- Secure cloud networking and infrastructure hardening
 
 ---
 
